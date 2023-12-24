@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stm32f10x_conf.h": "c",
+        "sys.h": "c",
+        "stm32f10x_adc.h": "c",
+        "stm32f10x.h": "c",
+        "string.h": "c",
+        "usb_regs.h": "c",
+        "usb_type.h": "c",
+        "hw_config.h": "c",
+        "usb_conf.h": "c",
+        "stdint.h": "c",
+        "usb_desc.h": "c",
+        "stm32f10x_usart.h": "c",
+        "new": "cpp",
+        "stdio.h": "c",
+        "tinylist.h": "c",
+        "tinythread.h": "c"
+    },
+    "search.exclude": {
+        "**/output": true,
+        "**/doc": true
+    }
+}
